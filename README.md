@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @romerez
-- a junior fullstack developer job !
-- you can reach me @ https://www.linkedin.com/in/rom-erez
+- Fullstack developer
+- Right not working at Al Srad.
+- Portfolio www.romerez.tech
+- you can reach me @ https://www.linkedin.com/in/romerez
